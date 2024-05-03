@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ubwitabire/static/css/main.bf231eb8.css",
+    "main.js": "/ubwitabire/static/js/main.cc872758.js",
+    "static/js/453.b8982067.chunk.js": "/ubwitabire/static/js/453.b8982067.chunk.js",
+    "index.html": "/ubwitabire/index.html",
+    "main.bf231eb8.css.map": "/ubwitabire/static/css/main.bf231eb8.css.map",
+    "main.cc872758.js.map": "/ubwitabire/static/js/main.cc872758.js.map",
+    "453.b8982067.chunk.js.map": "/ubwitabire/static/js/453.b8982067.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf231eb8.css",
+    "static/js/main.cc872758.js"
+  ]
+}
